@@ -7,7 +7,7 @@ from twilio.rest import Client
 product_name = "ZWEIREIHIGER WOLLMANTEL"
 product_id = "0917097"
 
-wanted_sizes = ["34", "36", "38", "44"]
+wanted_sizes = ["34", "36", "38"]
 wanted_variants = ["Schwarz"]
 
 variants = {
