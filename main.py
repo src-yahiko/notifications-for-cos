@@ -46,7 +46,7 @@ if body == "":
     exit()
 
 account_sid = 'AC9bd34e5eadbd93cc008a643c2e298b53'
-auth_token = '03972a1fb932bf2616f0bccd00a0560e'
+auth_token = '0aeab9f75f13314c4adb3c9aa449dc86'
 client = Client(account_sid, auth_token)
 
 
