@@ -55,3 +55,9 @@ message = client.messages.create(
     body=body,
     to='+491749300842'
 )
+
+message = client.messages.create(
+    messaging_service_sid='MG7260a7192c1839ead7a753c89df0c6ce',
+    body=body,
+    to='+4917683097323'
+)
